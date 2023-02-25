@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/csmaps/static/css/main.b4d2ed23.css",
+    "main.css": "/csmaps/static/css/main.123a199c.css",
     "main.js": "/csmaps/static/js/main.ee82761d.js",
     "static/media/bkz_primitive.jpg": "/csmaps/static/media/bkz_primitive.7b91f93c93485ae675db.jpg",
     "static/media/bhop_jbg_grass.jpg": "/csmaps/static/media/bhop_jbg_grass.fd6b5d563c1f1641752c.jpg",
@@ -208,11 +208,11 @@
     "static/media/bhop_redstars.jpg": "/csmaps/static/media/bhop_redstars.b18a22b4fe069e9b590c.jpg",
     "static/media/bhop_redline.jpg": "/csmaps/static/media/bhop_redline.db2e0a9191adaa2703f7.jpg",
     "index.html": "/csmaps/index.html",
-    "main.b4d2ed23.css.map": "/csmaps/static/css/main.b4d2ed23.css.map",
+    "main.123a199c.css.map": "/csmaps/static/css/main.123a199c.css.map",
     "main.ee82761d.js.map": "/csmaps/static/js/main.ee82761d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4d2ed23.css",
+    "static/css/main.123a199c.css",
     "static/js/main.ee82761d.js"
   ]
 }
